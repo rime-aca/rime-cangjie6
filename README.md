@@ -1,5 +1,7 @@
 ## 蒼頡檢字法〔Cangjie6〕
 
+配方： **℞ rime-aca/rime-cangjie6**
+
 1. This is a Chinese input method(Cangjie, 6th edition) based on Rime input engine
 2. `cangjie6.schema.yaml` is the configuration file, `cangjie6.dict.yaml` is the charactor encoding list, `cangjie6.extended.dict.yaml` is the phrase list, and `cangjie6.extsimp.dict.yaml` is the phrase list of simplified Chinese.
 3. To personalise, follow instructions in `cangjie6.schema.yaml`
